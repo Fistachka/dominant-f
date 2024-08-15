@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic-Eb"/>
   <readme>
     <ru>77e7e8ecf0e3cf2b546233e5724f6ec4e100133ae3c961ca538cb5c032ee314d</ru>
@@ -26,13 +26,13 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1</tonalities>
+    <tonalities>6</tonalities>
     <video name="k1.mp4" size="1042060" type="video/mp4" volume="1">cd93e6674435dd1b921487a2e6658903aaccce03c0279185ff5ec48843ce66e2</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="89" ppq="192" velocity="0.717"/>
-      <note number="2" values="1,5,18" ticks="109" durationTicks="100" ppq="192" velocity="0.822"/>
-      <note number="3" values="1,5" ticks="214" durationTicks="153" ppq="192" velocity="0.742"/>
-      <note number="4" values="1,5" ticks="576" durationTicks="191" ppq="192" velocity="0.742"/>
+      <note number="1" values="1,5,18" ticks="0" durationTicks="120" ppq="192" velocity="0.864"/>
+      <note number="2" values="1,5,18" ticks="129" durationTicks="121" ppq="192" velocity="0.822"/>
+      <note number="3" values="1,18" ticks="259" durationTicks="126" ppq="192" velocity="0.887"/>
+      <note number="4" values="1,5,18" ticks="387" durationTicks="136" ppq="192" velocity="0.922"/>
     </notes>
   </exercise>
   <exercise number="3">
