@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic-Eb"/>
   <readme>
     <ru>77e7e8ecf0e3cf2b546233e5724f6ec4e100133ae3c961ca538cb5c032ee314d</ru>
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>6</tonalities>
-    <video name="k7.mp4" size="546790" type="video/mp4" volume="1">f9bd627b89d71ebc3a8d603bcb37c283f6b1f24b018d74b191a0ba4086fe1172</video>
+    <video name="7.mp4" size="2052073" type="video/mp4" volume="1">327f20976669361b6ed739db9b50f59c62c43902248ecd27c9b575ea8e28664d</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="96" ppq="96" velocity="0.802"/>
       <note number="2" values="1,5,18" ticks="98" durationTicks="91" ppq="96" velocity="0.889"/>
