@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic-Eb"/>
   <readme>
-    <ru>77e7e8ecf0e3cf2b546233e5724f6ec4e100133ae3c961ca538cb5c032ee314d</ru>
+    <ru>bb671c412387e57111ebd1f19167405593d4078299c10c94ae2b2440d38a7e47</ru>
     <en>7d9788256bb37ea233974a24828f5ae41ffc75841450bf4a9bd12f1c10d6f1ab</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
