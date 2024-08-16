@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic-Eb"/>
   <readme>
     <ru>bb671c412387e57111ebd1f19167405593d4078299c10c94ae2b2440d38a7e47</ru>
@@ -30,9 +30,9 @@
     <video name="к1.mp4" size="1243733" type="video/mp4" volume="1">f123dbc12343b17292c0eab3c8724468bcb8a9cc6679958a407ce34a3e358d9e</video>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="120" ppq="192" velocity="0.864"/>
-      <note number="2" values="1,5,18" ticks="129" durationTicks="121" ppq="192" velocity="0.822"/>
-      <note number="3" values="1,18" ticks="259" durationTicks="126" ppq="192" velocity="0.887"/>
-      <note number="4" values="1,5,18" ticks="387" durationTicks="136" ppq="192" velocity="0.922"/>
+      <note number="2" values="1,5,18" ticks="152" durationTicks="130" ppq="192" velocity="0.844"/>
+      <note number="3" values="1,18" ticks="307" durationTicks="129" ppq="192" velocity="0.887"/>
+      <note number="4" values="1,5,18" ticks="459" durationTicks="175" ppq="192" velocity="0.892"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -70,9 +70,9 @@
     <notes>
       <note number="1" values="1,5,18" ticks="3" durationTicks="71" ppq="96" velocity="0.912"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="85" ppq="96" velocity="0.809"/>
-      <note number="3" values="1,5,18" ticks="133" durationTicks="70" ppq="96" velocity="0.867"/>
-      <note number="4" values="1,5,18" ticks="205" durationTicks="75" ppq="96" velocity="0.877"/>
-      <note number="5" values="1,5,18" ticks="257" durationTicks="80" ppq="96" velocity="0.914"/>
+      <note number="3" values="1,5,18" ticks="145" durationTicks="79" ppq="96" velocity="0.867"/>
+      <note number="4" values="1,5,18" ticks="228" durationTicks="64" ppq="96" velocity="0.877"/>
+      <note number="5" values="1,5,18" ticks="285" durationTicks="52" ppq="96" velocity="0.914"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -82,11 +82,11 @@
     <tonalities>6</tonalities>
     <video name="к5.mp4" size="1666716" type="video/mp4" volume="1">269112bfaecdc36e89663f66a1af72ea43ab56fbc202cd303d5666a06d5d7244</video>
     <notes>
-      <note number="1" values="1,5,18" ticks="0" durationTicks="102" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,5,18" ticks="48" durationTicks="106" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,18" ticks="95" durationTicks="112" ppq="96" velocity="0.847"/>
-      <note number="4" values="1,5,18" ticks="143" durationTicks="119" ppq="96" velocity="0.921"/>
-      <note number="5" values="1,5,18" ticks="189" durationTicks="140" ppq="96" velocity="0.834"/>
+      <note number="1" values="1,5,18" ticks="0" durationTicks="81" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,5,18" ticks="73" durationTicks="81" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,5,18" ticks="147" durationTicks="86" ppq="96" velocity="0.847"/>
+      <note number="4" values="1,5,18" ticks="226" durationTicks="81" ppq="96" velocity="0.921"/>
+      <note number="5" values="1,5,18" ticks="300" durationTicks="74" ppq="96" velocity="0.834"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -124,7 +124,7 @@
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,18" ticks="146" durationTicks="124" ppq="96" velocity="0.874"/>
+      <note number="3" values="1,5,18" ticks="146" durationTicks="103" ppq="96" velocity="0.874"/>
       <note number="4" values="1,5,18" ticks="202" durationTicks="85" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
