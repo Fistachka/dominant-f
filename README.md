@@ -5,4 +5,5 @@
 <br><br>
 <span id="en"><a href='#ru'>ð·ðº</a> &nbsp;&nbsp;&nbsp;<a href='#en'>ðºð¸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 # Dominant_f
-The dominant is one of the three main (along with tonic and subdominant) tonal functions.<br><br>
+The dominant is one of the three main (along with tonic and subdominant) tonal functions.
+![pexels-kayode-fashola-171812-621812](https://github.com/user-attachments/assets/e14e1bf1-16ba-4d0d-94d4-ec4d857262a3)<br><br>
