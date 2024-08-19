@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.16</version>
+  <version>v1.0.17</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic-Eb"/>
   <readme>
-    <ru>6baaf5603a1bbf363d64d7efc55dbdebe9ed00b95fc07fa36cc49b5c7bf093be</ru>
-    <en>c5092caf8b2de988c070f28fad68cbb87116a7b56e2ef3b22b156824aebf1d25</en>
+    <ru>33a697a2867f7b2b5a2ea90ef2c9b5b28ee3acd3a13e3458e923064aa5b0662e</ru>
+    <en>35bc685038191339ec6da783184ef2360e63a25ba2ad7c67479b4e4fbf331b76</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
