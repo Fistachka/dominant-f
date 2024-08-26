@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.20</version>
+  <version>v1.0.21</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic-Eb"/>
   <readme>
     <ru>33a697a2867f7b2b5a2ea90ef2c9b5b28ee3acd3a13e3458e923064aa5b0662e</ru>
@@ -122,10 +122,10 @@
     <tonalities>6</tonalities>
     <video name="колеса звук9.mp4" size="1669057" type="video/mp4" volume="0.674">4cd47e8848b1f0c36b6faf6b2f828e7f3d3f4ae0f9f4259ea7ddbd9cbbadaff1</video>
     <notes>
-      <note number="1" values="1" ticks="6" durationTicks="125" ppq="96" velocity="0.843"/>
+      <note number="1" values="5" ticks="6" durationTicks="125" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="105" durationTicks="146" ppq="96" velocity="0.913"/>
       <note number="3" values="18" ticks="202" durationTicks="123" ppq="96" velocity="0.874"/>
-      <note number="4" values="1" ticks="298" durationTicks="85" ppq="96" velocity="0.921"/>
+      <note number="4" values="18" ticks="298" durationTicks="85" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="10">
