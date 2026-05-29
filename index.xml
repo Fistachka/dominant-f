@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-f</repo>
-  <version>v1.0.24</version>
+  <version>v1.0.25</version>
   <next number="1" owner="fistachka" repo="deer"/>
   <readme>
-    <ru>52ae2272b0d04827f5d290b0c01218b46cd7fc98ab057fabb5ab48990547da00</ru>
-    <en>8ef6e2b566476c28a631f56b1848b88a5bfe873fe1d93e6889dae60515695a2f</en>
+    <ru>827b712ca25d0e384fd73b5435a1c807bc18dfd26efe673d0a6a57e5284bf407</ru>
+    <en>1990dd40c69c1773b5714c329f281c37d92811a769e99d99d26c9cf87a30a71c</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
